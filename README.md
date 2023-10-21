@@ -1,0 +1,4 @@
+# Personal-Projects
+# In regards to the adv_chatbot, that is still a WIP as it's not currently functioning as intended.  My next task is to review the code and then begin searching for the APIs that would allow it to do things such as checking weather.
+# In regards to the roll_the_dice project, this is currently working as intended and can do some complex expressions such as adding rolls of different polyhedral die together and can perform subtraction, multiplication, and division operations.  I'd like to add additional features to this, such as being able to roll with advantage (rolling twice and accepting the highest of the two results) or disadvantage.
+# I am always open to constructive feedback and any suggestions for features or other projects that can further assist my skill development.
